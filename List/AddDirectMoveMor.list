@@ -1,0 +1,19 @@
+# 内容：补充白名单直连线路
+# 补充日期 2025-02-09
+
+# 电影线路
+# 低端
+DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,ddys.mov
+DOMAIN-SUFFIX,ddys.tv
+
+# 剧狗狗
+DOMAIN-KEYWORD,jugougou
+DOMAIN-KEYWORD,jgghd
+
+# hdmoli
+DOMAIN,www.hdmoli.pro
+DOMAIN-SUFFIX,damoli.pro
+DOMAIN-SUFFIX,mzxay.com
+DOMAIN-SUFFIX,toutiaovod.com
+DOMAIN-SUFFIX,ctyunxs.cn
