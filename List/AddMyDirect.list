@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,stuuvw.com
 # China AI
 # DOMAIN-SUFFIX,qwen.ai
 # DOMAIN-SUFFIX,deepseek.com
+
+# BBS
+DOMAIN-SUFFIX,linux.do
