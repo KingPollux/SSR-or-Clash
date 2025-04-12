@@ -1,5 +1,5 @@
 # 内容：补充白名单直连线路
-# 补充日期 2025-02-10-0:30
+# 补充日期 2025年4月13日01:58:59
 # 电影线路
 # 低端
 DOMAIN-SUFFIX,ddys.pro
@@ -26,3 +26,7 @@ DOMAIN-SUFFIX,stuuvw.com
 # BBS
 DOMAIN-SUFFIX,linux.do
 DOMAIN,linux.do
+
+# 我哦的网站
+DOMAIN-SUFFIX,fotokon.com
+DOMAIN,fotokon.com
