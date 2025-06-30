@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,toutiaovod.com
 DOMAIN-SUFFIX,ctyunxs.cn
 DOMAIN-SUFFIX,stuuvw.com
 
-# China AI
+# 中国 AI
 # DOMAIN-SUFFIX,qwen.ai
 # DOMAIN-SUFFIX,deepseek.com
 
@@ -27,6 +27,11 @@ DOMAIN-SUFFIX,stuuvw.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN,linux.do
 
-# 我哦的网站
+# 我的网站
 DOMAIN-SUFFIX,fotokon.com
 DOMAIN,fotokon.com
+
+# 股票加密币等
+DOMAIN-SUFFIX,yiyingchanlun.com
+DOMAIN-SUFFIX,chanlun-trader.com
+DOMAIN-SUFFIX,kline8.com
