@@ -20,8 +20,9 @@ DOMAIN-SUFFIX,ctyunxs.cn
 DOMAIN-SUFFIX,stuuvw.com
 
 # 中国 AI
-# DOMAIN-SUFFIX,qwen.ai
-# DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,tbai.xin
 
 # BBS
 DOMAIN-SUFFIX,linux.do
@@ -35,3 +36,4 @@ DOMAIN,fotokon.com
 DOMAIN-SUFFIX,yiyingchanlun.com
 DOMAIN-SUFFIX,chanlun-trader.com
 DOMAIN-SUFFIX,kline8.com
+
