@@ -19,6 +19,10 @@ DOMAIN-SUFFIX,toutiaovod.com
 DOMAIN-SUFFIX,ctyunxs.cn
 DOMAIN-SUFFIX,stuuvw.com
 
+# anyTV
+DOMAIN,q0n8wqgx-anytv.hf.space/
+DOMAIN,e4e681c508b52840389b95a6edb060446f63a719-3000.dstack-prod8.phala.network/
+
 # 中国 AI
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,deepseek.com
