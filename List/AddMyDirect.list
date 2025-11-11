@@ -29,8 +29,8 @@ DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,tbai.xin
 
 # BBS
-DOMAIN-SUFFIX,linux.do
-DOMAIN,linux.do
+# DOMAIN-SUFFIX,linux.do
+# DOMAIN,linux.do
 
 # 我的网站
 DOMAIN-SUFFIX,fotokon.com
