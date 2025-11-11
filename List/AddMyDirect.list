@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,fotokon.com
 DOMAIN,fotokon.com
 
 # 股票加密币等
-DOMAIN-SUFFIX,yiyingchanlun.com
+# DOMAIN-SUFFIX,yiyingchanlun.com
 DOMAIN-SUFFIX,chanlun-trader.com
 DOMAIN-SUFFIX,kline8.com
 
