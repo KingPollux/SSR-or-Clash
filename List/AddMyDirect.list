@@ -26,7 +26,12 @@ DOMAIN,e4e681c508b52840389b95a6edb060446f63a719-3000.dstack-prod8.phala.network
 # 中国 AI
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,tbai.xin
+
+# 坛佬AI
+DOMAIN-SUFFIX,chibanban.de
+DOMAIN-SUFFIX,x666.me
+DOMAIN-SUFFIX,huan666.de
+DOMAIN-SUFFIX,hybgzs.com
 
 # BBS
 # DOMAIN-SUFFIX,linux.do
